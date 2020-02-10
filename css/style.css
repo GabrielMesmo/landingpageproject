@@ -1,0 +1,86 @@
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+
+.nav-personalizada{
+    background-color: rgb(248, 173, 103) !important;
+    text-decoration-color: #000000 !important;
+}
+
+.text-center{
+    text-align: center;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+section{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: rgb(248, 173, 103);
+    background-color: #000000;
+}
+
+h6{
+    font-size: 13px;
+}
+
+#perfilnav{
+    color: #000000;
+}
+
+#projetosnav{
+    color: #000000;
+}
+
+#contatonav{
+    color: #000000;
+}
+
+#apresentacao{
+    font-family: 'Indie Flower', cursive;
+    font-size: 16px;
+    background-color: #000000;
+    margin-top: 20px;
+    color: rgb(248, 173, 103);
+}
+
+#img1{
+    margin-top: 70px;
+}
+
+#img7{
+    max-width:700px;
+    max-height:600px;
+    width: auto;
+    height: auto;
+    
+}
+
+#img5{
+    max-width:700px;
+    max-height:600px;
+    width: auto;
+    height: auto;
+}
+
+#contato{
+    font-size: 13px;
+}
+
+#subir{
+	position: fixed bottom;
+    color: rgb(248, 173, 103);
+    font-size: 35px;
+    margin-left: 50%;
+}
+
+.dkIGUd {
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    font-size: 12px;
+    font-family: Muli, sans-serif;
+    color: rgba(255, 255, 255, 0.6);
+    margin-left: 50px;
+}
