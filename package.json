@@ -3,9 +3,7 @@
   "description": "a really cool app",
   "version": "1.0.0",
   "engines": {
-    "node": "10.15.2",
-    "var express": "require ('express')",
-    "var moment": "require('moment')"
+    "node": "10.15.2"
     
   }
 }
