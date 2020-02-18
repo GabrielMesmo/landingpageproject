@@ -5,6 +5,12 @@
 .nav-personalizada{
     background-color: rgb(248, 173, 103) !important;
     text-decoration-color: #000000 !important;
+    /*font-size: 18px;*/
+    /*text-align: center;*/
+}
+
+div#myNavbar.collapse.navbar-collapse.offset-4.offset-sm-4{
+    margin-left: 300px;
 }
 
 .text-center{
@@ -30,11 +36,15 @@ h6{
     color: #000000;
 }
 
-#projetosnav{
+#projetosNav{
     color: #000000;
 }
 
-#contatonav{
+#contatoNav{
+    color: #000000;
+}
+
+#hobbiesNav{
     color: #000000;
 }
 
